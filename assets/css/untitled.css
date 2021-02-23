@@ -1,0 +1,62 @@
+.gradient {
+  background: linear-gradient(120deg,#262626,#272727);
+  color: #fff;
+}
+
+.special-skill-item .icon {
+  text-align: center;
+  font-size: 50px;
+  background-color: #262626;
+  color: #fff;
+  height: 70px;
+  width: 70px;
+  line-height: 69px;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+#icons {
+  width: 100px;
+  height: 100px;
+}
+
+.btn-outline-primary:not(:disabled):not(.disabled).active, .btn-outline-primary:not(:disabled):not(.disabled):active, .show > .btn-outline-primary.dropdown-toggle {
+  color: #fff;
+  background-color: #262626;
+  border-color: #0ea0ff;
+}
+
+.btn-outline-primary:hover {
+  color: #fff;
+  background-color: #262626;
+  border-color: #272727;
+}
+
+a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.btn-outline-primary {
+  color: #262626;
+  border-color: #272727;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #262626;
+  border-color: #272727;
+}
+
+.btn-primary.focus, .btn-primary:focus, .btn-primary:hover {
+  color: #fff;
+  background-color: #272727;
+  border-color: #272727;
+}
+
+a {
+  color: #ff0e0e;
+  text-decoration: none;
+  background-color: transparent;
+}
+
